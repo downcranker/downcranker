@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything that will make my brain bigger.
 - 🌱 I’m currently learning HTML and Python and how to survive a day or two without eating snacks.
 - 💞️ I’m looking to collaborate on ... whatever actually, count me in!
-- 📫 How to reach me ... Just say crack and I will be there!
+- 📫 How to reach me ... Just say snacks and I will be there!
 
 <!---
 downcranker/downcranker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
